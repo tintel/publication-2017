@@ -415,7 +415,7 @@ h6,
 }
 #header4-1 .btn {
   font-family: 'Oxygen', sans-serif;
-  font-size: 9px;
+  font-size: 13px;
 }
 #header4-1 .mbr-section-title {
   text-align: center;
@@ -496,6 +496,9 @@ h6,
 #menu-l .link[aria-expanded="true"],
 #menu-l .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#msg-box5-1f H3 {
+  font-size: 22px;
 }
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
