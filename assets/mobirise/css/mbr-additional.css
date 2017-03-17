@@ -500,6 +500,9 @@ h6,
 #msg-box5-1f H3 {
   font-size: 22px;
 }
+#msg-box5-1f SPAN {
+  font-size: 16px;
+}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;

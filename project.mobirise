@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Valerie Tintel",
-    "currentPage": "index.html",
+    "currentPage": "photography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -277,6 +277,9 @@
           "_styles": {
             "H3": {
               "font-size": "22px"
+            },
+            "SPAN": {
+              "font-size": "16px"
             }
           }
         },
